@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyShadow",
+        "repositoryURL": "https://github.com/7glyphs/SwiftyShadow",
+        "state": {
+          "branch": null,
+          "revision": "6fdf4469272bf5d932ad9e899d457b0ce156fdcb",
+          "version": "1.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
